@@ -32,9 +32,9 @@ const layerConfigurations = [
     layersOrder: [
       { name: "background" },
       { name: "foreground" },
-      { name: "back" },
       { name: "body" },
       { name: "clothes" },
+      { name: "back" },
       { name: "headwear" },
       { name: "mouth" },
       { name: "eyes" },
